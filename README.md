@@ -1,4 +1,7 @@
 
 # COM11103 - Listas Ligadas
-Javier Orcazas
-Armando Limón Bautista
+Javier Orcazas 192100
+Armando Limón Bautista 188471
+Santiago Fernández del Castillo Sodi 189210
+Fernando Colin 189644
+
