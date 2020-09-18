@@ -1,1 +1,3 @@
-# com11103-listas-c
+# COM11103-listas-c
+Armando Limón Bautista
+
