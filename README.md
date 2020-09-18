@@ -1,3 +1,4 @@
-# com11103-listas-c
-Javier Orcazas
 
+# COM11103 - Listas Ligadas
+Javier Orcazas
+Armando Limón Bautista
